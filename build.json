@@ -1,0 +1,16 @@
+{
+    "slides": [
+        {
+            "build": "Build 1",
+            "image": "https://th.bing.com/th/id/OIP.cdwY1LiWSx3bX4QRn8cX5AHaEK?rs=1&pid=ImgDetMain",
+            "slogan": "Flipped",
+            "message": "Play season 19 of Fortnite Battle Royale today!"
+        },
+        {
+            "build": "Axys test tournament coming soon",
+            "image": "https://cdn2.unrealengine.com/15br-comp-fncs-announce-motd-1920x1080-1920x1080-097b395ebeb0.jpg",
+            "slogan": "Wanna win something?, then get it.",
+            "message": "Play & Win competitive prizes through the tournaments hosted soon!"
+        }
+    ]
+}
